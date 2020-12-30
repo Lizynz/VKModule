@@ -1,0 +1,10 @@
+Package: com.lizynz.vkmodule
+Name: VKModule
+Depends: mobilesubstrate, firmware(>=13.0), com.opa334.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: VK module for ControlCenter
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkmodule
+Maintainer: Lizynz
+Author: Lizynz
+Section: Tweaks
